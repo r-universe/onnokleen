@@ -2,5 +2,9 @@
   {
     "package": "alfred",
     "oncran": true
+  },
+  {
+    "package": "mfGARCH",
+    "oncran": true
   }
 ]
